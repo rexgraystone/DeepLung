@@ -19,5 +19,7 @@ ResNet50 Architecture
 
 The model trained on the raw images achieved an accuracy of ~0.75, while the model trained on the masked images achieved an accuracy of ~0.85. This is a good improvement over the raw images. The accuracy can be further improved by training the model for more epochs, and by using a larger dataset.
 
-![plot](Images/raw_plot.png)
+<p align='center'>
+    <img src="Images/raw_plot.png" alt='ResNet50 Architecture' width="75%" height="75%">
+</p>
 Accuracy and Loss Plot for Masked Images
