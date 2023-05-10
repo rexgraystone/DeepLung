@@ -10,8 +10,8 @@ The model was trained twice. Once using the raw image files, and the second time
 
 The model used is ResNet50. The model was trained for 100 epochs, with early stopping in kicking in at 25, with a batch size of 32. The model was trained on RTX 3080 Ti.
 
-<p align='center>
-    <img src='Images/resnet50.png' alt='ResNet50 Architecture'>
+<p align='center'>
+    <img src="Images/resnet50.png" alt='ResNet50 Architecture'>
 </p>
 ResNet50 Architecture
 
